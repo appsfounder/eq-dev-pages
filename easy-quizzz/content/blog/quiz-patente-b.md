@@ -4,7 +4,7 @@ date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images\istockphoto-1289568074-170667a.jpg"
+image: "images/istockphoto-1289568074-170667a.jpg"
 
 # meta description
 description: "this is meta description"
