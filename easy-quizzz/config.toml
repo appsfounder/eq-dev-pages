@@ -45,33 +45,33 @@ URL = "plugins/search/search.js"
 
 # main menu
 [[menu.main]]
-name = "About"
+name = "Di"
 URL = "about/"
 weight = 1
 
 [[menu.main]]
-name = "Post"
+name = "Inviare"
 URL = "blog/"
 weight = 2
 
 [[menu.main]]
-name = "Contact"
+name = "Contatto"
 URL = "contact/"
 weight = 3
 
 # footer menu
 [[menu.footer]]
-name = "About"
+name = "Di"
 URL = "about/"
 weight = 1
 
 [[menu.footer]]
-name = "Post"
+name = "Inviare"
 URL = "blog/"
 weight = 2
 
 [[menu.footer]]
-name = "Contact"
+name = "Contatto"
 URL = "contact/"
 weight = 3
 
@@ -82,7 +82,7 @@ logo = "images/logo.png"
 home = "Home"
 # Meta data
 description = "Tutte le informazioni su quiz di patente, test di concorrenza e test delle forze armate."
-author = "Themefisher"
+author = "Rana"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
