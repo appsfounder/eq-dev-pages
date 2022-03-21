@@ -1,23 +1,19 @@
 ---
 title: " Quiz concorsi pubblici: Come studiare i"
-date: 2019-10-29T10:07:47+06:00
+date: 2022-03-19T10:07:47+06:00
 draft: false
 
 # post thumb
 image: "images/QUIZ-CORRETTI.jpg"
 
 # meta description
-description: "this is meta description"
+description: "Ogni giorno siamo alla ricerca di nuovi metodi e strategie per superare i tanto temuti quiz concorsi pubblici, infatti su internet sono sempre più in aumento i siti che promettono in modo magico la risoluzione di essi. Ma noi di easy-quizzz vogliamo risolvere il vostro problema in modo più accurato e dettagliato offrendovi una guida dettagliata e mirata.
+"
 
 # taxonomies
 categories:
-  - "Android And Gaming"
-tags:
-  - "Photos"
-  - "Game"
-  - "React"
-  - "Python"
-  - "New"
+  - "Concorsi Pubblici"
+
 
 # post type
 type: "featured"

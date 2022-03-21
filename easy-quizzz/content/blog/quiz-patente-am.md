@@ -1,17 +1,18 @@
 ---
 title: "Quiz Patente AM: Guida definitiva tra preponderare essi quiz del patentino più ragione."
-date: 2019-10-29T10:07:47+06:00
+date: 2022-03-19T10:07:47+06:00
 draft: false
 
 # post thumb
 image: "images/gallery/istockphoto-509011855-170667a.jpg"
 
 # meta description
-description: "this is meta description"
+description: "Finalmente per tutti coloro che vogliono abilitarsi alla guida dei ciclomotori a due ruote e quadricicli leggeri con velocità massima di 45 Km/h, noi di easy-quizzz abbiamo pensato di creare una guida definitiva e dettagliata per risolvere il vostro problema.
+"
 
 # taxonomies
 categories:
-  - "concorsi"
+  - "Patente"
 
 
 # post type

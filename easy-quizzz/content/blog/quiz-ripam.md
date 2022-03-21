@@ -1,21 +1,19 @@
 ---
 title: "Concorso Ripam 2293 Unità: Scopri come superare i quiz ripam per il profilo amministrativo"
-date: 2019-10-29T10:07:47+06:00
+date: 2022-03-19T10:07:47+06:00
 draft: false
 
 # post thumb
 image: "images/featured-post/istockphoto-1134239459-612x612.jpg"
 
 # meta description
-description: "this is meta description"
+description: "Il tanto atteso Concorso Ripam per l'assunzione di 2293 unità nei vari ministeri, presso l'Avvocatura dello Stato e la Presidenza del Consiglio è stato bandito."
 
 # taxonomies
 categories:
-  - "concorsi"
+  - "Concorsi Pubblici"
 
 
-# post type
-type: "featured"
 ---
 
 

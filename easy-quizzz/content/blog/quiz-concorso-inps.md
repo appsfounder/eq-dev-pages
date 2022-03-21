@@ -1,17 +1,18 @@
 ---
 title: "Concorso Inps: Scopri come superare i quiz del concorso inps."
-date: 2019-10-29T10:07:47+06:00
+date: 2022-03-19T10:07:47+06:00
 draft: false
 
 # post thumb
 image: "images/featured-post/INPS-logo.jpg"
 
 # meta description
-description: "this is meta description"
+description: "Ripartono i concorsi pubblici italiani, infatti, il governo ha deciso di voltare pagina e cominciare a migliorare il sistema pubblico italiano con un cambio generazionale, dedito alla digitalizzazione e alla semplificazione burocratica.
+"
 
 # taxonomies
 categories:
-  - "concorsi"
+  - "Concorsi Pubblici"
 
 
 # post type

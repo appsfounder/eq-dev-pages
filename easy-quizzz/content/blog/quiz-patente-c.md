@@ -1,17 +1,17 @@
 ---
 title: "Quiz patente Superiore: Scopri come vincere quiz è scuotere la patente superiore."
-date: 2019-10-29T10:07:47+06:00
+date: 2022-03-19T10:07:47+06:00
 draft: false
 
 # post thumb
 image: "images/istockphoto-1249888857-612x612.jpg"
 
 # meta description
-description: "this is meta description"
+description: "Se il tuo sogno è diventare un autotrasportatore, ma non sai come  iscriverti all'esame, quale documentazione presentare, quali argomenti studiare per superare l'esame di teoria, e quali prove sostenere durante la pratica, non preoccuparti sei nel posto giusto."
 
 # taxonomies
 categories:
-  - "concorsi"
+  - "Patente"
 
 
 # post type

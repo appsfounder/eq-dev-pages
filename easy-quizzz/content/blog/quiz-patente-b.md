@@ -1,18 +1,18 @@
 ---
 title: "Teoria Patente B: Guida definitiva con trionfare l'investigazione speculativo."
-date: 2019-10-29T10:07:47+06:00
+date: 2022-03-19T10:07:47+06:00
 draft: false
 
 # post thumb
 image: "images/istockphoto-1289568074-170667a.jpg"
 
 # meta description
-description: "this is meta description"
+description: "Sul web si trovano tanti articoli inerenti il superamento della teoria patente b, ma pochi centrano il focus del discorso, noi vogliamo fornirvi una guida definitiva e dettagliata per risolvere nel migliore dei modi il vostro problema."
+
 
 # taxonomies
 categories:
-  - "concorsi"
-
+  - "Patente"
 
 # post type
 type: "featured"
